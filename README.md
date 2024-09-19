@@ -4,7 +4,7 @@
 
 This project focuses on evaluating the semantic similarity performance of FastText models (Skipgram and CBOW) trained on a large corpus of Wikipedia articles. The project compares the training times and performance of models with different dimensions and dataset sizes, using the STS Benchmark for evaluation.
 
-###Below is simulation video for the app the works on the fastText models.
+### Below is simulation video for the app the works on the fastText models.
 
 ![Alt text](./gif%20folder/simulation.gif)
 

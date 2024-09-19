@@ -1,0 +1,16 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore IDE project files (for IntelliJ, PyCharm, etc.)
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore large binary files
+*.bin
+*.exe
+*.dll

@@ -54,12 +54,6 @@ Predicts the target word based on context words, focusing on the surrounding con
 - **Findings:** Skipgram models are more effective but require greater computational resources. High-dimensional embeddings and larger datasets improve performance for both Skipgram and CBOW.
 - **Limitations:** Limited preprocessing techniques, reliance on a single dataset, and only one evaluation metric (STS Benchmark) were used.
 
-## Future Work
-
-- Incorporating additional benchmarks (e.g., sentiment analysis, named entity recognition)
-- Experimenting with advanced neural network architectures like transformers
-- Hyperparameter tuning and further preprocessing techniques
-- Developing domain-specific and multilingual word embeddings
 
 ## Requirements
 
